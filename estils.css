@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin-bottom: 2px;
+    color: rgb(15, 4, 172);
+    font-weight: bold;
+    text-align: center;   
+}
+caption{
+    color: rgb(247, 193, 0);
+    margin: 20px 0px;
+    font-size: 25px;
+    text-align: center;
+}
+.dies th{
+    text-align: center;
+    font-weight: bold;
+    width: 100px;
+}
+table, th, td{
+    border: 2px solid black;
+   
+}
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    
+  }
+
+tr .prog{
+    background-color: rgb(58, 54, 255);
+
+}
+tr .llmarques{
+    background-color: rgb(255, 68, 68);
+}
+tr .ipoi{
+    background-color: orange;
+}
+tr .sis{
+    background-color: rgb(149, 113, 63);
+}
+tr .bbdd{
+    background-color: rgb(148, 138, 253);
+}
+tr .angles{
+    background-color: rgb(26, 208, 87);
+}
+tr .tut{
+    background-color: rgb(159, 202, 255);
+}
+tr .diw{
+    background-color: rgb(255, 157, 221);
+}
